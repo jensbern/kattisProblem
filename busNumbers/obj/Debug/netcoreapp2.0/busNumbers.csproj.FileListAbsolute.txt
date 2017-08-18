@@ -1,0 +1,10 @@
+C:\Users\Jens\Documents\GitHub\kattisProblem\busNumbers\bin\Debug\netcoreapp2.0\busNumbers.deps.json
+C:\Users\Jens\Documents\GitHub\kattisProblem\busNumbers\bin\Debug\netcoreapp2.0\busNumbers.runtimeconfig.json
+C:\Users\Jens\Documents\GitHub\kattisProblem\busNumbers\bin\Debug\netcoreapp2.0\busNumbers.runtimeconfig.dev.json
+C:\Users\Jens\Documents\GitHub\kattisProblem\busNumbers\bin\Debug\netcoreapp2.0\busNumbers.dll
+C:\Users\Jens\Documents\GitHub\kattisProblem\busNumbers\bin\Debug\netcoreapp2.0\busNumbers.pdb
+C:\Users\Jens\Documents\GitHub\kattisProblem\busNumbers\obj\Debug\netcoreapp2.0\busNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Jens\Documents\GitHub\kattisProblem\busNumbers\obj\Debug\netcoreapp2.0\busNumbers.AssemblyInfoInputs.cache
+C:\Users\Jens\Documents\GitHub\kattisProblem\busNumbers\obj\Debug\netcoreapp2.0\busNumbers.AssemblyInfo.cs
+C:\Users\Jens\Documents\GitHub\kattisProblem\busNumbers\obj\Debug\netcoreapp2.0\busNumbers.dll
+C:\Users\Jens\Documents\GitHub\kattisProblem\busNumbers\obj\Debug\netcoreapp2.0\busNumbers.pdb
